@@ -1,0 +1,13 @@
+E={1:[345,'chinni','teacher',5000], 2:[453,'mouni','doctor',9000], 3:[678,'rama','software',8000],4:[569,'lakshmi','hardware',1000]};
+x=int(input('enter the employee no:'))
+
+print('empolyee no:',E[x][0])
+print('name:',E[x][1])
+print('job:',E[x][2])
+print('salary:',E[x][3]
+Out put:
+ enter the employee no: 2
+empolyee no: 453
+name: mouni
+job: doctor
+salary: 9000
